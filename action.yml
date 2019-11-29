@@ -1,0 +1,8 @@
+name: 'BYOND Install'
+description: 'Installs a specific byond version to the environment.'
+inputs:
+  major-version:
+    description: 'Major BYOND version'
+  minor-version:
+    description: 'Minor BYOND version'
+
